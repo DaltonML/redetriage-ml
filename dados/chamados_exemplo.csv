@@ -1,0 +1,81 @@
+texto,categoria
+Consigo acessar o IP do servidor mas não abre o endereço pelo nome,DNS
+O navegador diz que o DNS não está respondendo,DNS
+O computador não consegue resolver o nome do domínio,DNS
+Erro de resolução de nomes ao abrir sites da empresa,DNS
+O comando nslookup não consegue encontrar o host solicitado,DNS
+Troquei o servidor DNS e as páginas voltaram a abrir,DNS
+A internet funciona pelo endereço IP mas falha pelo domínio,DNS
+Os domínios internos não são encontrados na rede,DNS
+Aparece DNS_PROBE_FINISHED_NXDOMAIN no navegador,DNS
+Preciso verificar registros DNS de um serviço,DNS
+O servidor de nomes está indisponível,DNS
+O site não carrega porque não reconhece o nome do domínio,DNS
+Falha no DNS ao acessar o portal da universidade,DNS
+O endereço do servidor não é resolvido pelo Windows,DNS
+Depois da mudança de DNS o acesso aos sites parou,DNS
+Consulta de DNS está demorando e às vezes retorna erro,DNS
+Meu notebook não encontra nenhuma rede Wi Fi disponível,WI-FI
+A rede sem fio cai quando me afasto do roteador,WI-FI
+O sinal do WiFi está muito fraco no escritório,WI-FI
+Meu celular não consegue se conectar ao ponto de acesso,WI-FI
+A conexão wireless desconecta várias vezes ao dia,WI-FI
+A senha do WiFi está correta mas não consigo entrar,WI-FI
+O adaptador de rede sem fio não encontra o SSID,WI-FI
+Preciso melhorar a cobertura dos access points,WI-FI
+A rede 5 GHz não aparece no laptop,WI-FI
+O roteador está com sinal de Wi Fi instável,WI-FI
+O computador perde conexão quando muda de ponto de acesso,WI-FI
+A intensidade do sinal wireless é baixa no corredor,WI-FI
+O dispositivo conecta ao WiFi e desconecta logo depois,WI-FI
+A rede sem fio sumiu da lista de conexões,WI-FI
+Estou sem sinal WiFi na sala de reuniões,WI-FI
+Falha de autenticação na rede wireless da empresa,WI-FI
+Não consigo estabelecer o túnel VPN do trabalho,VPN
+O cliente VPN fica conectando e retorna erro,VPN
+A conexão remota por VPN é interrompida,VPN
+Preciso acessar a rede corporativa de casa usando VPN,VPN
+A autenticação do aplicativo VPN não funciona,VPN
+O túnel de rede privada virtual caiu,VPN
+O cliente OpenVPN apresenta falha de conexão,VPN
+Depois de conectar na VPN não acesso recursos internos,VPN
+A VPN não conecta depois da atualização do sistema,VPN
+O perfil de VPN da empresa não consegue autenticar,VPN
+O acesso remoto por túnel seguro está indisponível,VPN
+A sessão VPN expira e desconecta a cada minuto,VPN
+Tenho erro ao iniciar o WireGuard no notebook,VPN
+A rede interna só falha quando estou conectado na VPN,VPN
+O servidor VPN rejeita a tentativa de login,VPN
+O certificado usado no acesso VPN venceu,VPN
+O computador não recebe endereço IP automaticamente,DHCP
+A máquina está com IP 169.254 e não entra na rede,DHCP
+O servidor DHCP não oferece nenhum endereço,DHCP
+O lease de DHCP não está sendo renovado,DHCP
+Preciso verificar a distribuição automática de IP,DHCP
+Há conflito de endereços após renovação DHCP,DHCP
+O equipamento fica sem gateway porque falha o DHCP,DHCP
+O cliente não consegue obter IP do servidor,DHCP
+O escopo do DHCP está sem endereços disponíveis,DHCP
+O comando ipconfig renew retorna erro de DHCP,DHCP
+A reserva de IP no servidor DHCP não é aplicada,DHCP
+Os computadores novos ficam sem endereço automático,DHCP
+Falha na concessão de endereço pela rede,DHCP
+O serviço DHCP está parado no servidor,DHCP
+O dispositivo recebeu um IP inválido via DHCP,DHCP
+O tempo de concessão DHCP parece não atualizar,DHCP
+A conexão está muito lenta para carregar arquivos,LENTIDAO
+A latência aumentou e o ping ficou alto,LENTIDAO
+O download está abaixo da velocidade contratada,LENTIDAO
+A rede apresenta perda de pacotes durante chamadas,LENTIDAO
+O throughput caiu nos horários de pico,LENTIDAO
+A transferência de dados demora muito tempo,LENTIDAO
+A navegação está lenta mesmo com conexão ativa,LENTIDAO
+O jitter da conexão está atrapalhando a videochamada,LENTIDAO
+O streaming trava porque a rede está congestionada,LENTIDAO
+A velocidade da rede ficou baixa depois das 18 horas,LENTIDAO
+Estou com muito lag e instabilidade de desempenho,LENTIDAO
+O tempo de resposta do servidor aumentou,LENTIDAO
+O link de internet está saturado,LENTIDAO
+Os testes mostram uma taxa alta de perda de pacotes,LENTIDAO
+O tráfego está lento mas os dispositivos continuam conectados,LENTIDAO
+A conexão tem baixa largura de banda e alto atraso,LENTIDAO

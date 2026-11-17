@@ -1,0 +1,25 @@
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos temporarios do Python
+__pycache__/
+*.py[cod]
+
+# Cache de ferramentas
+.pytest_cache/
+.mypy_cache/
+
+# Configuracoes locais e segredos
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Modelo gerado durante o treinamento
+modelos/*.joblib
+
+# Arquivos locais
+.DS_Store
+Thumbs.db
